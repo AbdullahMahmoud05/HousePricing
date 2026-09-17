@@ -4,7 +4,7 @@ A production-ready Machine Learning web app that predicts residential sale
 prices from 12 key property features, using a **Linear Regression** model
 trained on the Kaggle *House Prices — Advanced Regression Techniques*
 dataset.
-https://h0usepricing.streamlit.app/
+Live Demo: https://h0usepricing.streamlit.app/
 
 ## Overview
 
